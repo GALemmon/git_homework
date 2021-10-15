@@ -7,3 +7,5 @@ I am trying to make sure that I do not fall behind.  Playing catch up would be b
 I am tying to make sure that I take good and consistent notes.
 
 I would like to thank my partner, Kelly, who was instrumental in getting me to consider Turing in the first place, and who is and will be my biggest cheerleader through the process.
+
+Lets see if this will push on up to GitHub.
